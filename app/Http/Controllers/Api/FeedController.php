@@ -145,7 +145,7 @@ class FeedController extends Controller
      
       
 
-      // return $query;
+      return $query;
 
 
 
